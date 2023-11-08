@@ -66,7 +66,7 @@ if (isset($_POST['submit_contact']))
 							<div class="section-dec"></div>
 						</div>
 						<div class="row">
-							<iframe style="margin-left: 250px; border: none; " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.4066239716158!2d72.88551247500507!3d21.21571838133149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f7084d49f51%3A0x2cdbfdfbb93f2c07!2sCreative%20Design%20and%20Multimedia%20Institute!5e0!3m2!1sen!2sin!4v1692442735476!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe style="margin-left: 250px; border: none; " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238132.67289598443!2d72.65748678122783!3d21.159440562025313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e59411d1563%3A0xfe4558290938b042!2sSurat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1699449857728!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 							<div class="col-sm-12">
 							</div>
 						</div>
