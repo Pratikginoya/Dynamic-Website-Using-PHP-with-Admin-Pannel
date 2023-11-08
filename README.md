@@ -5,7 +5,7 @@ After completion of my CRUD operation learning in php, I have made this Dynamic 
 Description of this project,
 
 Front End (Dynamic Website from Static Website)
-- Display all the details from Database which is add by the Admin from his Admin panel
+- Display all the details from Database which is added by the Admin from his Admin panel
 - Set pagination in blogs
 - Basic CRUD operations to view the data from database
   
